@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: linear-gradient(to right, #22E1FF 0%, #1D8FE1 48%, #625EB1 100%);       
+}
+.cols{
+    max-height: 35vh;
+    height: auto;
+}
+.table-wrapper{
+    height: 35vh !important; 
+    overflow-y: scroll;
+}
+footer{position: fixed;bottom: 0;left: 45vw;}
